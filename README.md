@@ -15,7 +15,15 @@ Background in QA means I don't just analyse data — I make sure it's worth anal
 ![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
 
 ---
+## 📂 Featured Projects
 
+| Project | Tools | Description |
+|--------|-------|-------------|
+| 🏨 [Hotel Booking Analytics](link) | Python, SQL, Tableau | EDA + dashboard on 119k booking records |
+| 🛒 [E-commerce SQL Case Study](link) | SQL, Excel | Complex queries solving real business problems |
+| 🧪 [A/B Testing Simulation](link) | Python, Statistics | Experiment design + significance testing |
+
+---
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amreen%20Shaikh-blue)](https://www.linkedin.com/in/amreen-shaikh-787bab1ba/)
